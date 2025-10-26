@@ -1,3 +1,4 @@
+
 # ShadowFox_AI-DRIVEN-NATURAL-LANGUAGE-PROCESSING-PROJECT
 
 ---
@@ -68,7 +69,9 @@ The main goal is to **analyze, visualize, and evaluate** the model’s performan
 - Maintain fairness, reproducibility, and explainability in experiments.
 
 ---
+<img width="552" height="467" alt="Screenshot 2025-10-26 200246" src="https://github.com/user-attachments/assets/f0f8ffd9-dba1-46bf-b1f8-bd7aa572e66a" />
+<img width="950" height="614" alt="Screenshot 2025-10-26 200218" src="https://github.com/user-attachments/assets/e7e5e1ca-8ee8-4b1d-9bab-98c34626044d" />
+<img width="759" height="635" alt="Screenshot 2025-10-26 200142" src="https://github.com/user-attachments/assets/6c82a230-6803-4324-a715-2501d56bfaf0" />
 
 
 
-⭐ **If you find this project useful, please give it a star on GitHub!**
